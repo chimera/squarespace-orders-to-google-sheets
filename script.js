@@ -21,7 +21,7 @@ var DEBUG = 1; // 0 is no logging, 1 is some logging, 2 is lots of logging
 var TIMEZONE = "America/Los_Angeles"; // assume California
 var START_ROW = 1; // fill the whole sheet (no other header data)
 var SORT_COLUMN = 5; // col 5 should be the order date
-var SHEET_NAME = "All Orders"; // set to the spreadsheet tab name you want data to appear in
+var SHEET_NAME = "All Squarespace Orders"; // set to the spreadsheet tab name you want data to appear in
 
 /*
  * Structure of SquareSpace Orders API response:
